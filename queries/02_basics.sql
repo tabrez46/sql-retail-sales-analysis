@@ -8,7 +8,7 @@ SELECT DISTINCT Ship_Mode FROM orders;
 -- Second Class
 -- Standard Class
 
--- Q2: Finf 10 most expensive individual orders
+-- Q2: Find 10 most expensive individual orders
 SELECT  [Order ID],
 [Customer Name],
 [Product Name],
