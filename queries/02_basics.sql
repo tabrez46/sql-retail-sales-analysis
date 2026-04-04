@@ -1,6 +1,6 @@
 -- Q1: Finding all unique shipping methods used in the dataset
-SELECT DISTINCT Ship_Mode
-FROM orders;
+SELECT DISTINCT Ship_Mode FROM orders;
+
 
 -- Result: 4 shipping modes
 -- First Class
